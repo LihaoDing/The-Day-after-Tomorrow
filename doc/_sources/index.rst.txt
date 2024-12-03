@@ -1,0 +1,12 @@
+A speed package routine
+******************************
+
+speed
+========================
+
+This module implements  package for train model and test functions.
+
+See :func:`speed.load_json_data`, :func:`speed.load_img_data`, :func:`speed.df_transformer`, :func:`speed.init_dataset`, :func:`speed.train_val`, :func:`speed.model_test`, and :func:`speed.load_test` for more information.
+
+.. automodule:: speed
+  :members: load_json_data, load_img_data, df_transformer, init_dataset, train_val, model_test, load_test
